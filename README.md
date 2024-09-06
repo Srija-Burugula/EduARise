@@ -12,6 +12,6 @@ With EduARise, we strive to make learning more accessible and enjoyable by bring
 - Assets: Sketchfab and unity asset store
 
 ### Try our application: 
-- Use the apk given in the code section to download the application in your android phone. 
+- Use the apk : https://drive.google.com/file/d/128UjVJcsFuAM5EwNF0JrMg6cE8V7Z1HB/view?usp=sharing to download the application in your android phone. 
 - download images from: https://drive.google.com/drive/folders/1Ucc53Rxds898Dlrg4UhzgHX1EGeAkT55?usp=sharing
 - using the application scan the images to experience immersive 3D view.
