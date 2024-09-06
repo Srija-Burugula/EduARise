@@ -10,3 +10,8 @@ With EduARise, we strive to make learning more accessible and enjoyable by bring
 - Vuforia package 
 - Scripts: C# 
 - Assets: Sketchfab and unity asset store
+
+### Try our application: 
+- Use the apk given in the code section to download the application in your android phone. 
+- download images from: https://drive.google.com/drive/folders/1Ucc53Rxds898Dlrg4UhzgHX1EGeAkT55?usp=sharing
+- using the application scan the images to experience immersive 3D view.
